@@ -650,7 +650,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
+    {
       "name": "live.lvcha1",
       "type": 0,
       "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/live.txt",
@@ -659,7 +659,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
+    {
       "name": "live.lvcha2",
       "type": 0,
       "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/lvcha/main/ywb.txt",
