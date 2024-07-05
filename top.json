@@ -1,0 +1,29 @@
+//公众号『蜗牛科技仓』
+//公众号『蜗牛科技』
+
+//•Q①群号：000000000
+//•Q②群号：000000000
+
+//QQ频道：搜索蜗牛发现即可           
+//微信群;加客服赞赏入群           
+//客服微信:000000
+//上面链接是针对那些电视端添加仓库失败的个别人员使用
+
+{"urls": [
+{"url": "https://4k.woniuxs.dynv6.net/test.json","name":"蜗牛🛫主力"},
+{"url": "https://4k.woniuxs.dynv6.net/jsm1.json","name":"蜗牛🚀备用"},
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/SnailVod/lvcha/main/lvcha.json","name":"蜗牛🍵绿茶"},
+{
+      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/SnailVod/DEOM/main/gz.txt",
+      "name": "关注公众号"
+    },
+    {
+      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/SnailVod/DEOM/main/gzh.txt",
+      "name": "『蜗牛科技仓』"
+    },
+  {
+      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/SnailVod/DEOM/main/gzh1.txt",
+      "name": "『免费分享』"
+    }
+]
+}
